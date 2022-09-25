@@ -1,0 +1,35 @@
+/* jumboTron*/
+
+.jumbotron-one{
+    background: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/04LDEYRW59.jpg") no-repeat fixed;
+}
+.jumbotron-two{
+    background: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/90V03Q5Y60.jpg") no-repeat fixed;
+}
+.jumbotron-three{
+    background: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/O83SF2RB6D.jpg") no-repeat fixed;
+}
+.jumbotron-four{
+    background: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/5JVPSVP7EI.jpg") no-repeat fixed;
+}
+.jumbotron-five{
+    background: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/C5Y10KIIHA.jpg") no-repeat fixed;
+}
+.jumbotron-six{
+    background: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/YSSFRY5B25.jpg") no-repeat fixed;
+}
+
+.jumbotron{
+
+
+height: 60vh;
+background-size: cover;
+
+
+
+}
+
+
+body{
+    background-color: rgb(184, 180, 176);
+}
